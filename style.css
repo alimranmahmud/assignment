@@ -1,0 +1,160 @@
+.text-center {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 50px;
+
+}
+
+.image-add {
+    background-image: url(donation0.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 330px;
+}
+
+.font {
+    font-size: 36px;
+    padding-bottom: 10px;
+}
+
+.new-font {
+    text-align: center;
+    font-size: 25px;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.half-width {
+    padding-left: 150px;
+    width: 50%;
+    box-shadow: 10px 10px 20px red;
+}
+
+#center-text {
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid wheat;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+.new-color {
+    text-align: center;
+    background-image: linear-gradient(red, tomato);
+    margin-left: 880px;
+    margin-right: 880px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 200px;
+
+}
+
+.font-new-size {
+    text-align: center;
+    font-size: 50px;
+}
+
+.font-new-text {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.only-box {
+    display: flex;
+
+}
+
+.pic-box {
+    width: 50%;
+    box-shadow: 10px 10px 40px rgba(253, 4, 4, 0.61);
+    padding: 60px;
+    margin-bottom: 200px;
+}
+
+.contribute {
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 15px;
+    border-radius: 10px;
+
+
+}
+
+.all-font {
+    font-size: 24px;
+    padding: 30px;
+    padding-left: 200px;
+
+}
+
+.display-box {
+    display: flex;
+}
+
+.donate img {
+    width: 70%;
+    margin-bottom: 400px;
+
+}
+
+.update-flex {
+    display: flex;
+}
+
+.t {
+    width: 50%;
+    font-size: 30px;
+}
+
+.t img {
+    width: 70%;
+    padding-left: 140px;
+    margin-bottom: 300px;
+}
+
+.get-newone {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+
+.email {
+    background-color: rgb(81, 54, 54);
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-bottom: 200px;
+}
+
+.p {
+
+    text-align: center;
+    color: azure;
+}
+
+.color {
+    background-color: black;
+    padding: 100px;
+}
+
+.background-color {
+    background-color: bisque;
+    margin-bottom: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
+}
+
+.v {
+    font-style: italic;
+    color: chocolate;
+}
